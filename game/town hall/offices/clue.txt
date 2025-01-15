@@ -1,0 +1,5 @@
+Investigation Update:
+
+A hastily written note mentions checking the records next.
+
+Remember: Use 'cd "records"' to follow this lead.
