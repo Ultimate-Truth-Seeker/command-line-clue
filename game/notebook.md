@@ -8,7 +8,7 @@
 ## Weapons
 - [ ] Paint Brush
 - [ ] Heavy Book
-- [ ] Garden Shears
+- [x] Garden Shears
 
 ## Notes
 *Use this space to record your findings and deductions...*
