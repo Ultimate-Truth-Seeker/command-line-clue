@@ -1,7 +1,7 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Artist
+- [x] The Artist
 - [ ] The Blacksmith
 - [ ] The Baker
 
