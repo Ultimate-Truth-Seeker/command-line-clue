@@ -3,7 +3,7 @@
 ## Suspects
 - [x] The Artist
 - [ ] The Blacksmith
-- [ ] The Baker
+- [x] The Baker
 
 ## Weapons
 - [ ] Paint Brush
