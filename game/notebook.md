@@ -7,7 +7,7 @@
 
 ## Weapons
 - [ ] Paint Brush
-- [ ] Heavy Book
+- [x] Heavy Book
 - [x] Garden Shears
 
 ## Notes
